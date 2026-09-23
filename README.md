@@ -11,7 +11,7 @@ Atualmente estou em busca de uma oportunidade de **estágio em Tecnologia** (Des
 
 ### <font color="#58A6FF">🚀 Sobre mim</font>
 - 🎓 Graduação em andamento em Engenharia de Software.
-- ⚙️ Formação técnica sólida em Automação Industrial (SENAI).
+- ⚙️ Formação técnica em Automação Industrial (SENAI).
 - 💻 Foco atual de estudos: Ecossistema Python, manipulação de dados e desenvolvimento de sistemas.
 - 🌱 Aprendendo continuamente sobre boas práticas de software e arquitetura de código.
 
