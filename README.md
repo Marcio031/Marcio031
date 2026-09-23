@@ -21,13 +21,6 @@ Atualmente estou em busca de uma oportunidade de **estágio em Tecnologia** (Des
 
 <br>
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Marcio031&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio031&layout=compact&theme=tokyonight" />
-</p>
-
 ### 📫 Como me encontrar
 <div align="left">
   <a href="https://linkedin.com/in/marcio-moreira-junior" target="_blank">
