@@ -1,12 +1,13 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=550&lines=Olá,+eu+sou+o+Márcio+Moreira+👋;Estudante+de+Engenharia+de+Software;Foco+em+Python+e+Back-end;Buscando+Estágio+em+TI" alt="Typing SVG" />
-  </a>
+  <h1>Olá, eu sou o Márcio Moreira 👋</h1>
+  <h3>Estudante de Engenharia de Software | Python | Desenvolvimento Backend</h3>
 </div>
 
 <br>
 
 Sou estudante de **Engenharia de Software** e técnico em **Automação Industrial**, apaixonado por usar a tecnologia e a programação para resolver problemas reais. Busco transformar aprendizado em prática, desenvolvendo soluções focadas em automação, análise de dados e interfaces interativas.
+
+Atualmente estou em busca de uma oportunidade de **estágio em Tecnologia** (Desenvolvimento Backend, Dados ou Automação).
 
 ### 🚀 Sobre mim
 - 🎓 Graduação em andamento em Engenharia de Software.
@@ -41,10 +42,4 @@ Sou estudante de **Engenharia de Software** e técnico em **Automação Industri
   <a href="mailto:marcinhojunior2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Marcio031/count.svg" alt="Contador de Visitas" />
 </div>
