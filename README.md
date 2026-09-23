@@ -16,7 +16,6 @@ Atualmente estou em busca de uma oportunidade de **estágio em Tecnologia** (Des
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
@@ -24,9 +23,11 @@ Atualmente estou em busca de uma oportunidade de **estágio em Tecnologia** (Des
 
 ### 📈 Estatísticas do GitHub
 
+### 📈 Estatísticas do GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcio031&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do Márcio" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio031&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="150" />
+  [![Estatísticas do Márcio](https://github-readme-stats.vercel.app/api?username=Marcio031&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/Marcio031)
+  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio031&layout=compact&theme=tokyonight)](https://github.com/Marcio031)
 </div>
 
 ### 📫 Como me encontrar
