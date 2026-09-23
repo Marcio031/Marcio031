@@ -23,12 +23,8 @@ Atualmente estou em busca de uma oportunidade de **estágio em Tecnologia** (Des
 
 ### 📈 Estatísticas do GitHub
 
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  [![Estatísticas do Márcio](https://github-readme-stats.vercel.app/api?username=Marcio031&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/Marcio031)
-  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio031&layout=compact&theme=tokyonight)](https://github.com/Marcio031)
-</div>
+[![Estatísticas do Márcio](https://github-readme-stats.vercel.app/api?username=Marcio031&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/Marcio031)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio031&layout=compact&theme=tokyonight)](https://github.com/Marcio031)
 
 ### 📫 Como me encontrar
 <div align="left">
