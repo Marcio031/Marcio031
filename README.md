@@ -46,7 +46,7 @@ No momento, busco uma oportunidade de **estágio em Tecnologia**, especialmente 
 ### <font color="#58A6FF">📫 Como me encontrar</font>
 
 <div align="left">
-  <a href="[ ](https://www.linkedin.com/in/m%C3%A1rcio-moreira-junior)" target="_blank">
+  <a href="https://www.linkedin.com/in/m%C3%A1rcio-moreira-junior" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:marcinhojunior2005@gmail.com" target="_blank">
